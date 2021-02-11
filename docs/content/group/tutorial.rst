@@ -7,7 +7,7 @@
 Group Tutorials
 ================
 
-.. csv-table:: a title
+.. csv-table::
    :header: "Date (yyyy/mm/dd)", "Title", "Key Words", "Speaker", "Link"
    :widths: 5, 20, 20, 5, 20 
 

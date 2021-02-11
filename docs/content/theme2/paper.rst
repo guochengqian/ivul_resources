@@ -7,7 +7,7 @@
 Theme2 Paper
 ====================
 
-.. csv-table:: a title
+.. csv-table::
    :header: "Title", "Key Words", "Venue", "Group", "Code", "Comment", "recording"
    :widths: 10, 10, 5, 5, 5, 10, 5 
 

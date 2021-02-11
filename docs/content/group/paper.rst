@@ -7,7 +7,7 @@
 Group Paper Reading
 =====================
 
-.. csv-table:: a title
+.. csv-table:: Paper List
    :header: "Date (yyyy/mm/dd)", "Title", "Key Words", "Speaker", "Link"
    :widths: 10, 20, 20, 10, 30 
 

@@ -1,4 +1,4 @@
-# IVUL Resources: https://ivul_resources.readthedocs.io/en/latest/
+# IVUL-Resources: https://ivul_resources.readthedocs.io/en/latest/
 Website: [ivul_resources](https://ivul_resources.readthedocs.io/en/latest/). 
 
 ![ivul resources website](docs/_static/image/website.png)
