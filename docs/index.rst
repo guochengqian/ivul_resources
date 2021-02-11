@@ -9,7 +9,8 @@
 IVUL-Resources
 ***************
 
-Born on Feb 11, 2021. 
+Born on Feb 11, 2021.
+
 IVUL-Resources website:  for collecting resources for our IVUL-family, \etc group tutorials, group paper reading, suggested/presented papers in each theme,  datasets collected for easy deployment, documentation on how to set up and use group/KAUST resources (like node center, skynet, ibex).
 Hopefully,  IVUL-Resources can be beneficial to all of us, and helps the new members in our family grows faster.
 Later, IVUL-Resources later should even supports basic framework for image/video/3d/fundamental deep learning (just like OpenMMLAB, but more specially for us. )
@@ -26,7 +27,7 @@ Later, IVUL-Resources later should even supports basic framework for image/video
 
  IVUL-Resources supports search. that means: you can search for a specific tutorial (or anything you want) by a sparse word of the title (if you cannot remeber the full name of the title), the speaker, the date, or some keywords.
 
-Try IVUL-Resources out and contribute more: https://ivul-resources.readthedocs.io/en/latest/index.html
+Try IVUL-Resources out and contribute more: https://github.com/guochengqian/ivul_resources
 
 .. toctree::
    :glob:
