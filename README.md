@@ -1,7 +1,12 @@
-# IVUL resources
-Website: [ivul_resources](https://ivul_resources.readthedocs.io/en/latest/). Support searching. 
+# IVUL Resources: https://ivul_resources.readthedocs.io/en/latest/
+Website: [ivul_resources](https://ivul_resources.readthedocs.io/en/latest/). 
 
 ![ivul resources website](docs/_static/image/website.png)
+
+IVUL Resources supports search:
+
+![ivul resources website](docs/_static/image/search.png)
+
 
 ## Structure 
 Written in reST, support automatically HTML rendering in realtime by Sphinx. 
