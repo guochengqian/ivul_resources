@@ -32,10 +32,12 @@ Try IVUL-Resources out and contribute more: https://github.com/guochengqian/ivul
 .. toctree::
    :glob:
    :maxdepth: 1
-   :caption: Tutorial
+   :caption: Group Resources
 
    content/group/tutorial
    content/group/paper
+   content/group/template
+   content/group/gpus_best_practice
 
 .. toctree::
    :glob:
